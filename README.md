@@ -1,5 +1,6 @@
 ### Hello world — @phoomin2012 ✨
 
+Experienced Cross-Platform Front-end, and Service development with proficiency in various technologies. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 Since high school, I've been self-learning coding and coding as a hobby. I typically create web applications with PHP and Javascript/Typescript (NodeJS). I'm always looking for new opportunities to learn new things, whether it's through a project or a new employment.
 
 ### 💬 About Me
@@ -14,7 +15,7 @@ Since high school, I've been self-learning coding and coding as a hobby. I typic
 ### 🌟 Experiences
 
 - Frontend Developer - **Refinitiv Thailand**
-  - March 2022 - Present
+  - March 2022 - *Present*
   - Resposibility
     - Contribute to Eikon project which is the cross-platform framework to host other applications to support working as a web application and desktop applications (Windows & MacOS).
   - Skills
