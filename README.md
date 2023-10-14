@@ -13,7 +13,16 @@ Since high school, I've been self-learning coding and coding as a hobby. I typic
 
 ### 🌟 Experiences
 
+- Frontend Developer - **Refinitiv Thailand**
+  - March 2022 - Present
+  - Resposibility
+    - Contribute to Eikon project which is the cross-platform framework to host other applications to support working as a web application and desktop applications (Windows & MacOS).
+  - Skills
+    - Typescript
+    - Polymer
+    - Electron.js
 - Frontend Developer Internship — **Accenture**
+  - November 2021 - February 2023
   - Resposibility
     - Collaborate in SCB Coorperate Portal
     - Migrate internal tools from React to Next.js
@@ -23,10 +32,11 @@ Since high school, I've been self-learning coding and coding as a hobby. I typic
     - Redux
     - Next.js
     - Material Design
-- Full Stack Developer - **Phumin Studio**
-  - ***Work in progress...***
 - Freelance
-  - ***Work in progress...***
+  - Create a web application according to the customer's requirements.
+    Example project:
+    - Minecraft item shopping website (PHP, CSS, jQuery)
+    - VPS (Virtual Private Server) automates seller website (PHP, CSS, Vue, NodeJS, Docker)
 
 ### 📮 Open for opportunities
 I'm always open for opportunities. Please reach me via Linkedin or email.
