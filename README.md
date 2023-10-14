@@ -40,4 +40,4 @@ Since high school, I've been self-learning coding and coding as a hobby. I typic
     - VPS (Virtual Private Server) automates seller website (PHP, CSS, Vue, NodeJS, Docker)
 
 ### 📮 Open for opportunities
-I'm always open for opportunities. Please reach me via Linkedin or email.
+I'm always open for opportunities. Please reach me via [Linkedin](https://www.linkedin.com/in/phumin-chanthalert/) or [email](mailto:phumin@phumin.in.th?cc=phoomin009@gmail.com).
